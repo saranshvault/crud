@@ -32,7 +32,7 @@ A comprehensive CRUD (Create, Read, Update, Delete) application built with Next.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/nextjs-crud-app.git
+   git clone https://github.com/saranshvault/crud
    cd nextjs-crud-app
    ```
 
